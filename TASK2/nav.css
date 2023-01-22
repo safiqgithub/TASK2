@@ -1,0 +1,157 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+  }
+body {
+  margin: 0;
+  background-color:#8592f2;
+}
+
+.container {
+  /*list-style-type: none;*/
+  margin: 0;
+  padding: 30px;
+  width: 300px;
+  background-color: #ffffff;
+  position: fixed;
+  height: 80%;
+  overflow: auto;
+  margin-left: 30px;
+  margin-top: 30px;
+  border-radius: 30px;
+}
+.fool{
+ /* padding: 70px;*/
+  margin-bottom: 70px;
+}
+/*.fool span{
+  float: left;
+  padding: 5px;
+  margin-right: 20px;
+  margin-left: 2px;
+  font-size: medium;
+  color: rgb(255, 255, 255);
+  background: linear-gradient(#8088e4,#0917d9);
+  border-radius: 7px;
+  
+}*/
+.button1 button{
+  width: 42px;
+  height: 42px;
+  border-radius: 10px;
+  border: none;
+ /* margin-top: 2px;
+  margin-left: 2px;*/
+  margin-bottom: 15px;
+}
+.feel{
+  text-align: center;
+  font-size: medium;
+  font-weight: bold;
+  margin-bottom: 20px;
+  margin-top: 0px;  
+}
+.faal{
+  text-align: center;
+  font-size: small;
+  color: grey;
+}
+.button2 button{
+  width: 75%;
+  margin-left: 35px;
+  height: 35px;
+  color: white;
+  background-color: #0917d9;
+  border: none;
+  border-radius: 5px;
+            
+}
+.fool p.p1{
+   margin-left: 60px;
+   padding: 5px;
+}
+.fool p.p2{
+    margin-left: 60px;
+    padding: 5px;
+ }
+ .fool p.p3{
+    margin-left: 60px;
+    padding: 5px;
+ }
+ .fool p.p4{
+    margin-left: 60px;
+    padding: 5px;
+ }
+ .fool p.p5{
+    margin-left: 60px;
+    padding: 5px;
+ }
+ .fool p.p6{
+    margin-left: 60px;
+    padding: 5px;
+    
+ }
+.fool i{
+    float: left;
+    padding: 5px;
+    margin-right: 20px;
+    margin-left: 2px;
+    font-size: medium;
+    color: rgb(255, 255, 255);
+    background: linear-gradient(#8088e4,#0917d9);
+    border-radius: 7px;
+}
+.fool j{
+    float: left;
+    padding: 5px;
+    margin-right: 20px;
+    margin-left: 2px;
+    font-size: medium;
+    color: rgb(255, 255, 255);
+    background: linear-gradient(#e7f800,#ffc400);
+    border-radius: 7px;
+}
+.fool k{
+    float: left;
+    padding: 5px;
+    margin-right: 20px;
+    margin-left: 2px;
+    font-size: medium;
+    color: rgb(255, 255, 255);
+    background: linear-gradient(#c300ff,#7700ff);
+    border-radius: 7px;
+}
+.fool l{
+    float: left;
+    padding: 5px;
+    margin-right: 20px;
+    margin-left: 2px;
+    font-size: medium;
+    color: rgb(255, 255, 255);
+    background: linear-gradient(#d0ff00,#f2ff00);
+    border-radius: 7px;
+
+}
+.fool m{
+    float: left;
+    padding: 5px;
+    margin-right: 20px;
+    margin-left: 2px;
+    font-size: medium;
+    color: rgb(255, 255, 255);
+    background: linear-gradient(#ff00bb,#fd0198);
+    border-radius: 7px;
+
+}
+.fool n{
+    float: left;
+    padding: 5px;
+    margin-right: 20px;
+    margin-left: 2px;
+    font-size: medium;
+    color: rgb(255, 255, 255);
+    background: linear-gradient(#00bbff,#8aaac2);
+    border-radius: 7px;
+    
+
+
+}
